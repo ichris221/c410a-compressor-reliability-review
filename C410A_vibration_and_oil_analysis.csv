@@ -1,0 +1,28 @@
+sample_date,asset_tag,component,measurement_type,direction,unit,value,route,analyst_note
+2026-05-05,C-410A,motor DE bearing,vibration_velocity_overall,horizontal,mm/s,4.37,VA-COMP-41,
+2026-05-05,C-410A,motor NDE bearing,vibration_velocity_overall,horizontal,mm/s,3.21,VA-COMP-41,
+2026-05-05,C-410A,air-end DE bearing,vibration_velocity_overall,horizontal,mm/s,4.92,VA-COMP-41,
+2026-05-05,C-410A,air-end NDE bearing,vibration_velocity_overall,horizontal,mm/s,4.19,VA-COMP-41,
+2026-05-05,C-410A,coupling guard side,vibration_velocity_overall,horizontal,mm/s,3.09,VA-COMP-41,
+2026-05-05,C-410A,base frame,vibration_velocity_overall,horizontal,mm/s,2.23,VA-COMP-41,
+2026-05-08,C-410A,motor DE bearing,vibration_velocity_overall,horizontal,mm/s,7.3,VA-COMP-41,raised motor DE band 1x running speed
+2026-05-08,C-410A,motor NDE bearing,vibration_velocity_overall,horizontal,mm/s,3.25,VA-COMP-41,
+2026-05-08,C-410A,air-end DE bearing,vibration_velocity_overall,horizontal,mm/s,5.02,VA-COMP-41,
+2026-05-08,C-410A,air-end NDE bearing,vibration_velocity_overall,horizontal,mm/s,4.19,VA-COMP-41,
+2026-05-08,C-410A,coupling guard side,vibration_velocity_overall,horizontal,mm/s,3.38,VA-COMP-41,
+2026-05-08,C-410A,base frame,vibration_velocity_overall,horizontal,mm/s,1.93,VA-COMP-41,
+2026-05-12,C-410A,motor DE bearing,vibration_velocity_overall,horizontal,mm/s,6.74,VA-COMP-41,raised motor DE band 1x running speed
+2026-05-12,C-410A,motor NDE bearing,vibration_velocity_overall,horizontal,mm/s,3.47,VA-COMP-41,
+2026-05-12,C-410A,air-end DE bearing,vibration_velocity_overall,horizontal,mm/s,5.01,VA-COMP-41,
+2026-05-12,C-410A,air-end NDE bearing,vibration_velocity_overall,horizontal,mm/s,3.9,VA-COMP-41,
+2026-05-12,C-410A,coupling guard side,vibration_velocity_overall,horizontal,mm/s,3.4,VA-COMP-41,
+2026-05-12,C-410A,base frame,vibration_velocity_overall,horizontal,mm/s,2.02,VA-COMP-41,
+2026-05-08,C-410A,motor DE bearing,vibration_velocity_overall,horizontal,mm/s,7.42,VA-COMP-41,duplicate upload from route collector
+2026-05-05,C-410A,compressor discharge,discharge_temperature,,degF,184.0,PI-HIST,
+2026-05-08,C-410A,compressor discharge,discharge_temperature,,degF,232.0,PI-HIST,
+2026-05-12,C-410A,compressor discharge,discharge_temperature,,degF,226.0,PI-HIST,
+2026-04-20,C-410A,oil sample,viscosity_40C,,cSt,46.8,LAB-OIL-12,baseline after change
+2026-05-09,C-410A,oil sample,viscosity_40C,,cSt,39.4,LAB-OIL-12,viscosity below prior sample
+2026-05-09,C-410A,oil sample,water_content,,ppm,740,LAB-OIL-12,water above routine watch level
+2026-05-09,C-410A,oil sample,iron,,ppm,62,LAB-OIL-12,elevated wear metal
+2026-05-09,C-410A,oil sample,particle_count_iso,,code,20/18/15,LAB-OIL-12,reported as code

@@ -1,0 +1,10 @@
+date,shift,record_type,asset_tag,topic,reference_id,value,unit,note
+2026-05-06,day,shift_handover,C-410A,mode confirmation,SH-410A-0506-D,load/unload,text,lead operator notes unit held pressure without trim compressor
+2026-05-07,night,shift_handover,C-410A,control panel mode,SH-410A-0507-N,modulation,text,mode left in modulation after service outage
+2026-05-08,day,permit,C-410A,LOTO permit,,,text,LOTO reference not written on handover form
+2026-05-08,day,permit,C-410A,hot work permit,HW-22-518,not required,text,no hot work performed
+2026-05-08,day,reading,C-410A,separator_dp,SH-410A-0508-D,12.8,psid,operator observed high DP on local panel
+2026-05-08,day,reading,C-410A,discharge_temperature,SH-410A-0508-D,238,degF,alarm acknowledged at 15:12
+2026-05-09,day,shift_handover,C-410A,aftercooler wash status,SH-410A-0509-D,not complete,text,wash kit staged but not installed
+2026-05-10,night,closeout,C-410A,service report closeout,,,text,vendor report not attached to CMMS at shift end
+2026-05-11,day,safety,C-410A,oil mist drain bottle,SAF-410A-114,empty,text,checked during walking tour
